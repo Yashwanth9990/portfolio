@@ -1,0 +1,16 @@
+.p-new page.Flex12 {
+display: flex;
+justify-content: space-between;
+}
+.p-new page.Flex15 {
+display: flex;
+}
+.p-new page.Flex13 {
+display: flex;
+}
+.p-new page.Link1 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 19px;
+text-align: left;
+}
